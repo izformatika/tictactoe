@@ -38,6 +38,15 @@ void I()
     cout << "#" << endl;
 
 }
+void V()
+{
+    cout << "  #         #" << endl;
+    cout << "   #       # " << endl;
+    cout << "    #     #" << endl;
+    cout << "      #  # " << endl;
+    cout << "       # " << endl;
+}
+
 
 int main()
 {
