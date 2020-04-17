@@ -29,6 +29,15 @@ void L()
     cout << "#" << endl;
 
 }
+void I()
+{
+    cout << "#" << endl;
+    cout << " " << endl;
+    cout << "#" << endl;
+    cout << "#" << endl;
+    cout << "#" << endl;
+
+}
 
 int main()
 {
