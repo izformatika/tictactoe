@@ -11,6 +11,15 @@ void A()
     cout << " ####"<<endl;
 }
 
+void L()
+{
+    cout << "#" << endl;
+    cout << "#" << endl;
+    cout << "#" << endl;
+    cout << "#" << endl;
+    cout << "# " << endl;
+}
+
 int main()
 {
     A();
