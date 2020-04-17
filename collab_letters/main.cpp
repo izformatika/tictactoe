@@ -11,9 +11,18 @@ void A()
     cout << " ####"<<endl;
 }
 
+void D()
+{
+    cout << "###  "<<endl;
+    cout << "#  # "<<endl;
+    cout << "#   #"<<endl;
+    cout << "#  # "<<endl;
+    cout << "###  "<<endl;
+}
+
 int main()
 {
-    A();
+    L();
     return 0;
 }
 
