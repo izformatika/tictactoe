@@ -2,7 +2,7 @@
 
 using namespace std;
 
-void A()
+void a()
 {
     cout << "  ## "<<endl;
     cout << "    #"<<endl;
